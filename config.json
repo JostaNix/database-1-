@@ -1,0 +1,23 @@
+{
+  "Prefix":".",
+  "Owner":"",
+  "Token":"",
+
+"DağıtıcıTokens" : [
+        "",
+        "",
+        ""
+],
+
+  "MongoUrl":"",
+  "backupkanal":"",
+  "guildID":"",
+  "BotSesKanal":"",
+  "BotDurum":"",
+  "BotFooter":"",
+  "BotStatus":"dnd",
+
+  "green":"", 
+  "greenid":""
+
+  }
